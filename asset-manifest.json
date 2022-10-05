@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.0e3a1225.css",
+    "main.js": "/resume/static/js/main.97a1420b.js",
+    "static/media/Sa-Yoor Headley's Resume.pdf": "/resume/static/media/Sa-Yoor Headley's Resume.bee7125bd2bdec33ba1d.pdf",
+    "index.html": "/resume/index.html",
+    "main.0e3a1225.css.map": "/resume/static/css/main.0e3a1225.css.map",
+    "main.97a1420b.js.map": "/resume/static/js/main.97a1420b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e3a1225.css",
+    "static/js/main.97a1420b.js"
+  ]
+}
