@@ -3,7 +3,7 @@ const data = {
   address: "Guyana",
   email: "mailto:sai.h152015@gmail.com",
   websites: {
-    portfolio: "https://sa-yoorheadley.github.io/resume/",
+    portfolio: "https://sa-yoorheadley.github.io/portfolio/",
     github: "https://github.com/Sa-YoorHeadley",
     linkedIn: "https://www.linkedin.com/in/sa-yoor-headley/",
   },
