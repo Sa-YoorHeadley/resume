@@ -42,7 +42,7 @@ const data = {
       location: `Remote`,
       duration: {
         startDate: "Dec-2021",
-        endDate: "Aug-2021",
+        endDate: "Aug-2022",
       },
       workedOn: [
         `Built a full stack candidate management application using React, SCSS, Node JS, Express and SQL.`,
