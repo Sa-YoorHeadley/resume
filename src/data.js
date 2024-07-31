@@ -8,9 +8,17 @@ const data = {
     linkedIn: "https://www.linkedin.com/in/sa-yoor-headley/",
   },
   programmingLanguagesFrameworks: {
-    frontend: ["React", "JavaScript", "SCSS", "Tailwind", "CSS", "HTML"],
-    backend: ["Node JS", "Express"],
-    database: ["MongoDB","SQL"],
+    frontend: [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "SCSS",
+      "Tailwind",
+      "CSS",
+      "HTML",
+    ],
+    backend: ["Node JS", "Express", "Go", "Java"],
+    database: ["MongoDB", "SQL"],
     other: ["Google Apps Script", "Python", "C", "Pascal"],
   },
   tools: [
@@ -36,12 +44,55 @@ const data = {
   profile: `Equipped with a promising skill-set. Passion for problem solving and creative solutions. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.`,
   employment: [
     {
+      title: `Junior Full Stack Engineer`,
+      employer: `HRTM Incorporated`,
+      location: `Hybrid`,
+      duration: {
+        startDate: "Nov-2023",
+        endDate: "Present",
+      },
+      workedOn: [
+        `Design and build new and previously existing full stack applications using a variety of languages.`,
+        `Creating custom reports using BIRT.`,
+      ],
+      toolsUsed: [
+        `Go`,
+        `Java`,
+        `Typescript`,
+        `React`,
+        `Tailwind CSS`,
+        `SQL`,
+        `Figma`,
+        `Docker`,
+      ],
+
+      responsibilities: [
+        `Writing new computer codes to fit existing software, apps or programs`,
+        `Sourcing existing code from open code libraries or databases developed by a company`,
+        `Thoroughly testing computer programs and recommending updates or changes before release`,
+        `Training new users to use updated programs or hardware`,
+        `Debugging computer programs experiencing faults and glitches`,
+        `Developing security systems and procedures to protect users from hacks and programs from viruses`,
+        `Keeping up-to-date on new developments and advances in coding and software development`,
+        `Developing front end website architecture`,
+        `Designing user interactions on web pages`,
+        `Developing back-end website applications`,
+        `Creating servers and databases for functionality`,
+        `Ensuring responsiveness of applications`,
+        `Working alongside graphic designers for web design features`,
+        `Seeing through a project from conception to finished product`,
+        `Designing and developing APIs`,
+        `Meeting both technical and consumer needs`,
+        `Staying abreast of developments in web applications and programming languages`,
+      ],
+    },
+    {
       title: `Full Stack Developer`,
       employer: `Xploy Incorporated`,
       location: `Hybrid`,
       duration: {
         startDate: "Nov-2022",
-        endDate: "Present",
+        endDate: "Nov-2023",
       },
       workedOn: [
         `Built multiple full stack applications using React, Tailwind, Node JS, Express, MongoDB SQL.`,
@@ -203,7 +254,7 @@ const data = {
         `Best Graduating Student of Diploma in Computer Science for 2019`,
         `Student Guild President`,
       ],
-      
+
       subjects: [
         { name: `English Language`, grade: `B-` },
         { name: `Management`, grade: `B-` },
